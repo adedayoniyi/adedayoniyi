@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Adedayo
-I'm Adedayo from Nigeria. I'm a Flutter Mobile App Developer. I'm also experienced in languages and frameworks like JavaScript, Golang, Nodejs and React.
+I'm Adedayo from Nigeria. I'm a Flutter Mobile App Developer. I'm also experienced in languages and frameworks like JavaScript, Golang, Nodejs and Flutter.
 
 ### Skills and Experience
 FLUTTER/ DART/ HTML / CSS
