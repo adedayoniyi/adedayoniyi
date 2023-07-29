@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Adedayo
-I'm Adedayo. I'm a Mobile App Developer. I'm also experienced in languages and frameworks like JavaScript, Nodejs and Flutter.
+#### Mobile App Developer
+I am a passionate and versatile developer with experience in Flutter and Node.js. I enjoy building projects that showcase my skills and creativity, and you can find some of them here on my GitHub profile. I have a keen eye for design and strive to create pixel-perfect UIs that are user-friendly and engaging. I am fluent in English and can communicate effectively with clients and collaborators. I have worked on some side gigs and received positive feedback for my output, speed, and commitment. I am always eager to learn new technologies and take on new challenges.
+
 
 ### Skills and Experience
 
