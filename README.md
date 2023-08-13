@@ -3,6 +3,7 @@
 
 I am a passionate developer with experience in Flutter and Node.js. I enjoy building projects that showcase my skills and creativity, and you can find some of them here on my GitHub profile. I am fluent in English and can communicate effectively with clients and collaborators. I have worked on some side gigs and received positive feedback for my output, speed, and commitment. I am always eager to learn new technologies and take on new challenges.
 
+![](https://komarev.com/ghpvc/?username=adedayoniyi)
 
 ### Skills and Experience
 
