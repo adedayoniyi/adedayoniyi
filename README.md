@@ -14,7 +14,6 @@ I am a passionate developer with experience in Flutter and Node.js. I enjoy buil
 <a style="text-decoration:none" href="https://nodejs.org"> <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" height="32" /></a>	
 <a style="text-decoration: none;" href="https://expressjs.com"> <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/express/express-original.svg" alt="express" width="32" height="32" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adedayoniyi)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adedayoniyi&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=adedayoniyi&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adedayoniyi&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
