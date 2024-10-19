@@ -14,6 +14,7 @@ I am a passionate developer with experience in Flutter and Node.js. I enjoy buil
 <a style="text-decoration:none" href="https://nodejs.org"> <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" height="32" /></a>	
 <a style="text-decoration: none;" href="https://expressjs.com"> <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/express/express-original.svg" alt="express" width="32" height="32" /></a>
 
-![](https://github-readme-stats.vercel.app/api?username=adedayoniyi&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adedayoniyi&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=adedayoniyi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true' /><br/>
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=adedayoniyi&theme=vue-dark&hide_border=true' /><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adedayoniyi&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
